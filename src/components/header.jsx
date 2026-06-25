@@ -287,7 +287,7 @@ export default function Header() {
           {/* Link wrapping image - no inner <a> */}
           <Link href="/" className="flex items-center">
             <Image
-              src={"/images/legendary-logo.png"}
+              src={"/images/legendary-logo-a.png"}
               width={256}
               height={234}
               quality={100}
