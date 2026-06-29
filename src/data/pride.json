@@ -1,5 +1,8 @@
 {
-  "banners": ["/images/pride/e1.jpg"],
+  "banners": [
+    "/images/pride/pride_true_1.jpg",
+    "/images/pride/pride_true_2.jpg"
+  ],
   "arrow": "false",
   "style_banner": "object-fill",
   "banner_strip": {

@@ -1,5 +1,8 @@
 {
-  "banners": ["/images/gallery/marvel.jpg"],
+  "banners": [
+    "/images/Marvel/marvel_true_1.jpg",
+    "/images/Marvel/marvel_true_2.jpg"
+  ],
   "arrow": "false",
   "style_banner": "object-fill",
   "banner_strip": {
@@ -49,13 +52,13 @@
     {
       "text1": "GARBAGE CHUTE."
     },
-     {
+    {
       "text1": "TERRACE GARDEN"
     },
-     {
+    {
       "text1": "CENTRALIZED AC"
     },
-     {
+    {
       "text1": "CONCEALED GAS PIPE SYSTEM"
     }
   ],
