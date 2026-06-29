@@ -20,7 +20,7 @@ const slides = [
 
 export default function HeroBanner() {
   return (
-    <section className="relative w-full mt-16 bg-[#0a1630] overflow-hidden">
+    <section className="relative w-full mt-[116px] bg-[#0a1630] overflow-hidden">
       <Swiper
         modules={[Autoplay, Pagination, EffectFade]}
         effect="fade"
@@ -34,7 +34,6 @@ export default function HeroBanner() {
         {slides.map((slide, index) => (
           <SwiperSlide key={index}>
             <div className="w-full">
-
               {/* ✅ Tablet + Desktop (FIXED) */}
               <div
                 className="hidden sm:block w-full bg-no-repeat bg-center"
@@ -53,7 +52,6 @@ export default function HeroBanner() {
                   backgroundSize: "contain",
                 }}
               />
-
             </div>
           </SwiperSlide>
         ))}

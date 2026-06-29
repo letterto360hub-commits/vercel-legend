@@ -21,7 +21,7 @@ export default function AboutUs() {
         </title>
       </Head>
       <Header />
-      <section className="w-full pb-4 pt-20 relative text-custom">
+      <section className="w-full pb-4 pt-[116px] relative text-custom">
         <Image
           src={"/images/platina-banner.jpg"}
           fill

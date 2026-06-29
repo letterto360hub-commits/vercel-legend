@@ -102,7 +102,7 @@ export default function ProjectBanner({ data }) {
   );
 
   return (
-    <section className="w-full relative">
+    <section className="w-full relative mt-[116px]">
       <Carousel
         renderArrowNext={nextArrow}
         renderArrowPrev={prevArrow}
