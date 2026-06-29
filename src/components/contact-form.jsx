@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import EnquiryForm from "./enquiry-form";
+// import EnquiryForm from "./enquiry-form";
 
 export default function ({ isContactPage = false }) {
   return (
