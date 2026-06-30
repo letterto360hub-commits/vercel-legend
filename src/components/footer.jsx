@@ -16,7 +16,7 @@ export default function () {
           height={234}
           quality={100}
           alt="Legendary Logo"
-          className="h-[100px] w-[100px]"
+          className="h-[100px] w-auto"
         />
         {/* { <div className="flex flex-col gap-4 justify-start items-start text-custom">
           <p className="text-xl">Ongoing Projects</p>
